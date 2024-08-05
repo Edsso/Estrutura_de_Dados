@@ -1,0 +1,2 @@
+ARROZ | 14.99 | GRAOS | 1 | Desconto: 3
+Valor Total da Compra: 14.5403
